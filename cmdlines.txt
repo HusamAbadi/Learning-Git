@@ -37,6 +37,7 @@ git status
 
 # Display the commit history.
 git log
+git log --oneline (better view)
 
 # List existing branches or create a new branch.
 git branch
